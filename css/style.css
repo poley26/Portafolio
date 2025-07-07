@@ -69,7 +69,7 @@ body {
 
 .inicio {
     background: linear-gradient(to top, rgba(30, 35, 38, .8), rgba(30, 35, 38, 1)),
-        url(img/fondo.jpg);
+        url(../Imagenes/fondo.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -553,8 +553,9 @@ body {
     pointer-events: none;
 }
 
+
 .contacto {
-    background-image: url(img/contact_bg.png);
+    background-image: url(../Imagenes/contact_bg.png);
     background-color: #1e2326;
     background-size: cover;
     background-position: center;
